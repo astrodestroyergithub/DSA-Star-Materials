@@ -23,7 +23,7 @@ What will be the output of the following code?
 (d) Compilation error
 
 ### Problem-2:
-![Coding Problem No. 2](https://github.com/astrodestroyergithub/DSA-Star-Materials/Assets/1.png)
+![Coding Problem No. 2](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/1.png)
 
 ### Problem-3:
-![Coding Problem No. 3](https://github.com/astrodestroyergithub/DSA-Star-Materials/Assets/2.png)
+![Coding Problem No. 3](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/2.png)
