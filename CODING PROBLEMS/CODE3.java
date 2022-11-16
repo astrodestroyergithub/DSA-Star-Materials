@@ -30,5 +30,4 @@ Pick all that apply
 (d) Such a program can never work because it is modifying the same array that is looping over
 (e) Such a program can never work because such a remove method cannot be implemented for an array
 
-Ans: 
- */
+Ans: */

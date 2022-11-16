@@ -27,3 +27,9 @@ What will be the output of the following code?
 
 ### Problem-3:
 ![Coding Problem No. 3](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/2.png)
+
+### Problem-4:
+![Coding Problem No. 4](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/3.png)
+
+### Problem-5:
+![Coding Problem No. 5](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/4.png)
