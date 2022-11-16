@@ -1,3 +1,19 @@
+/* My space for testing and learning */
+
+class Accounts {
+    int balance[100];
+    
+    void deposit_salary(int emp_id, int sal) {
+        balance[emp_id] += sal;
+    }
+    
+    // assume that constructors and other methods of the Accounts
+    // class have reasonable definitions. Assume that this is
+    // written in a language that allows methods of a class
+    // to be optionally defined as 'synchronized' (in which case no two
+    // threads can be in the same method at the same time
+};
+
 /* The question is given below: 
 
 class Accounts {
