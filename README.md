@@ -75,35 +75,35 @@ class Accounts {
 ![Coding Problem No. 5](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/4.png)
 
 ### Problem-6:
-![Coding Problem No. 6](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/5.png)
+![Coding Problem No. 6](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/5.png) <br>
 (a) var=100 <br>
 (b) var=AI <br>
 (c) var=0 <br>
 (d) Error
 
 ### Problem-7:
-![Coding Problem No. 7](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/6.png)
+![Coding Problem No. 7](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/6.png) <br>
 (a) myName=ABCDEFG(size=7) <br>
 (b) Error <br>
 (c) myName=ABCDEFG(size=4) <br>
 (d) myName=ABCDEFG(size=8)
 
 ### Problem-8:
-![Coding Problem No. 8](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/7.png)
+![Coding Problem No. 8](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/7.png) <br>
 (a) Error <br>
 (b) 10,10,10,10 <br>
 (c) 10,20,30,40 <br>
 (d) AAA,BBB,CCC,DDD
 
 ### Problem-9:
-![Coding Problem No. 9](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/8.png)
+![Coding Problem No. 9](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/8.png) <br>
 (a) 0 1 2 ... 255 <br>
 (b) 255 <br>
 (c) 256 <br>
 (d) blank screen as output
 
 ### Problem-10:
-![Coding Problem No. 10](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/9.png)
+![Coding Problem No. 10](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/9.png) <br>
 Find the output
 (a) I have purchased ...: <br>
 (b) I have purchased ...:Mobile, Lappy <br>
