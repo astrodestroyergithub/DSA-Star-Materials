@@ -104,7 +104,7 @@ class Accounts {
 
 ### Problem-10:
 ![Coding Problem No. 10](https://github.com/astrodestroyergithub/DSA-Star-Materials/blob/master/Assets/9.png) <br>
-Find the output
+Find the output <br>
 (a) I have purchased ...: <br>
 (b) I have purchased ...:Mobile, Lappy <br>
 (c) I have purchased ...:Mobile <br>
